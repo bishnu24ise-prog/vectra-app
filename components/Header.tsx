@@ -25,9 +25,9 @@ export default function Header() {
         </nav>
 
         <div className="flex items-center gap-4">
-          <Link href="/login" className="text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors hidden md:block">
+          <a href="#" className="text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors hidden md:block">
             Log in
-          </Link>
+          </a>
           <Link href="#pricing" className="btn btn-primary text-sm px-4 py-2">
             Get Started
           </Link>

@@ -2,7 +2,7 @@
 > Automate at the speed of thought.
 
 **Live Deployment:** [https://vectra-app-six.vercel.app](https://vectra-app-six.vercel.app)
-**Demo Video:** `[ADD DEMO VIDEO LINK HERE]`
+
 
 ## Overview
 Vectra is a premium, high-converting SaaS landing page built for the Next-Gen AI Platform Speed Run hackathon. It rigidly adheres to strict performance guardrails and dependency restrictions.

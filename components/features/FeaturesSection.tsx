@@ -23,12 +23,15 @@ export default function FeaturesSection() {
 
   return (
     <section id="features" className="features-section container">
-      <div className="features-header text-center mb-16">
-        <h2 className="text-3xl md:text-5xl font-heading font-bold mb-4">
+      <div className="features-header">
+        <p className="section-eyebrow" style={{ justifyContent: "center" }}>
+          Platform Capabilities
+        </p>
+        <h2 className="text-gradient" style={{ display: "inline-block" }}>
           Everything you need to automate at scale
         </h2>
-        <p className="text-secondary text-lg max-w-2xl mx-auto">
-          One platform to orchestrate your data, AI models, and business logic without the engineering overhead.
+        <p style={{ color: "var(--color-text-secondary)", fontSize: "1.0625rem", maxWidth: "42rem", margin: "0 auto" }}>
+          One platform to orchestrate your data, AI models, and business logic — without the engineering overhead.
         </p>
       </div>
 
